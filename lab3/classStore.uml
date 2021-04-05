@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>lab2.store.AbstractStore</OriginalElement>
+  <nodes>
+    <node x="0.0" y="202.0">lab2.store.WoodDirectory</node>
+    <node x="211.0" y="213.0">lab2.store.ProductStore</node>
+    <node x="104.125" y="0.0">lab2.store.AbstractStore</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="lab2.store.ProductStore" target="lab2.store.AbstractStore">
+      <point x="45.0" y="-42.0" />
+      <point x="346.0" y="177.0" />
+      <point x="271.25" y="177.0" />
+      <point x="71.625" y="76.0" />
+    </edge>
+    <edge source="lab2.store.WoodDirectory" target="lab2.store.AbstractStore">
+      <point x="47.75" y="-53.0" />
+      <point x="143.25" y="177.0" />
+      <point x="175.75" y="177.0" />
+      <point x="-23.875" y="76.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="195.5" y="63.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
